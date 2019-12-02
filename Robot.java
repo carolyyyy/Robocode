@@ -1,4 +1,4 @@
-package  yangxiaotong;
+
 import robocode.*;
 import java.awt.geom.Point2D;
 import java.awt.Color;
